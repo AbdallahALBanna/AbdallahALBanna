@@ -3,50 +3,53 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Software-QA%20%26%20QC-brightgreen" alt="Software QC & QA" />
     <img src="https://img.shields.io/badge/Collaborating%20on-Manual%20%26%20Automation%20Testing-blue" alt="Collaborating on Testing" />
-    <img src="https://img.shields.io/badge/Learning-Software%20%26%20Data%20Engineering-yellow" alt="Learning Software & Data Engineering" />
+    <img src="https://img.shields.io/badge/Learning-Software%20Engineering-yellow" alt="Learning Software Engineering" />
 </p>
 
 ---
 
 ## 💫 About Me:
 
-Hi! I'm **Abdallah AL-Banna**, a passionate Software Quality Engineer with a deep focus on **Quality Control** and **Quality Assurance**. I thrive in ensuring that software is bug-free, efficient, and meets the highest standards. Whether it's manual or automated testing, I'm always ready to dive in and collaborate with teams to make great products even better.  
+Hi! I'm **Abdallah AL-Banna**, a passionate **Software Quality Engineer** with a deep focus on **Quality Control** and **Quality Assurance**.  
+With a strong background in **R&D Engineering**, I bring an analytical and innovative mindset to software testing. I thrive in ensuring that software is bug-free, efficient, and meets the highest standards. Whether it's **manual** or **automated testing**, I'm always ready to dive in and collaborate with teams to make great products even better.
 
 - 🔭 **Current Role:** Working in **Software QC & QA**  
 - 👯 **Collaborations:** I'm open to working on **Manual** and **Automation Software Testing** projects. If you're looking for a partner to optimize your testing process, feel free to reach out!  
-- 🌱 **What I’m Learning:** Currently expanding my knowledge in **Software Development** and **Data Engineering**, always eager to stay at the cutting edge of technology.  
+- 🌱 **What I’m Learning:** Currently expanding my knowledge in **Software Development**, always eager to stay at the cutting edge of technology.  
 - ⚡ **Fun Fact:** I'm a huge **Petrol Head**! When I’m not working with software, you’ll probably find me discussing cars or attending automotive events.  
 
 
 ---
 
-## 🌐 Connect with Me:
+## 🌐 More About Me:
 <p align="center">
     <a href="https://linkedin.com/in/abdallah-al-banna">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    <a href="https://drive.google.com/drive/folders/1QNq_1Go95m8TS05vz1GNLt8e8okoSKQH?usp=sharing" target="_blank">
+        <img src="https://img.shields.io/badge/Certificates-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificates" />
+    </a>
 </p>
-
----
 
 ## 💻 Tech Stack:
 <p align="center">
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" />
-    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
-    <img src="https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white" alt="Espressif" />
-    <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-    <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+    <img src="https://img.shields.io/badge/Manual%20Testing-0078D4?style=for-the-badge&logoColor=white" alt="Manual Testing" />
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+    <img src="https://img.shields.io/badge/Selenium%20WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium WebDriver" />
+    <img src="https://img.shields.io/badge/API%20Testing-FF6C37?style=for-the-badge&logoColor=white" alt="API Testing" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+    <img src="https://img.shields.io/badge/RestAssured-00A859?style=for-the-badge&logoColor=white" alt="RestAssured" />
+    <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber" />
+    <img src="https://img.shields.io/badge/Allure%20Report-FF4088?style=for-the-badge&logoColor=white" alt="Allure Report" />
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+    <img src="https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge&logoColor=white" alt="Newman" />
+    <img src="https://img.shields.io/badge/CI%2FCD-0A0FFF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+
 </p>
 
 ---
@@ -59,5 +62,7 @@ Hi! I'm **Abdallah AL-Banna**, a passionate Software Quality Engineer with a dee
 ---
 
 <p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=AbdallahALBanna&icon=6&color=10" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=AbdallahALBanna&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
+
